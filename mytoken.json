@@ -22,6 +22,14 @@
       "symbol": "LINA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+      "name": "Hedget",
+      "symbol": "HGET",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     }
   ],
   "version": {
