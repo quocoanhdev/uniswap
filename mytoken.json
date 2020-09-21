@@ -21,7 +21,7 @@
       "name": "Linear Token",
       "symbol": "LINA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://etherscan.io/token/images/linear_32.png"
     },
     {
       "chainId": 1,
@@ -29,7 +29,15 @@
       "name": "Hedget",
       "symbol": "HGET",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://etherscan.io/token/images/hedget_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+      "name": "Hakka Finance",
+      "symbol": "HAKKA",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/HakkaFinance_32.png"
     }
   ],
   "version": {
