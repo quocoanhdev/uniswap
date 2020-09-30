@@ -38,6 +38,22 @@
       "symbol": "HAKKA",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/HakkaFinance_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "name": "LuaToken",
+      "symbol": "LUA",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/luaswap_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
     }
   ],
   "version": {
