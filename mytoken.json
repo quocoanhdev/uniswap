@@ -54,6 +54,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+      "name": "TomoChain",
+      "symbol": "TOMOE",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/tomochain_32.png"
     }
   ],
   "version": {
