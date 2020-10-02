@@ -1,0 +1,72 @@
+{
+  "name": "0MYTOKEN",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+      "name": "Linear Token",
+      "symbol": "LINA",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/linear_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+      "name": "Hedget",
+      "symbol": "HGET",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/hedget_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+      "name": "Hakka Finance",
+      "symbol": "HAKKA",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/HakkaFinance_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "name": "LuaToken",
+      "symbol": "LUA",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/luaswap_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+      "name": "TomoChain",
+      "symbol": "TOMOE",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/tomochain_32.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
