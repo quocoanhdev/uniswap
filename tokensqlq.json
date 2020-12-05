@@ -1,0 +1,22 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xb895d261d3fdAf4D2b3a42f9652bC5E8d58178f0",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+  ]
+}
